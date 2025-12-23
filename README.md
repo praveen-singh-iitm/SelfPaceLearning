@@ -1,6 +1,4 @@
-# SelfPaceLearning
-
-This repository contains couse wise folders.
+This repository contains couse wise assigmnets.
 
 Folder Name :- Python/ Assigment_1
 
@@ -9,37 +7,26 @@ In Python course folder are having Assignnment_1 folder which two simple Python 
 Task_1.py – Basic Arithmetic Operations
 
 This program:
-
 Takes two numbers as input from the user
 Performs the following operations:
-
 Addition
-
 Subtraction
-
 Multiplication
-
 Division
 
 Displays the results on the console
 
 Example Operations:
-
 Addition of two numbers
-
 Subtraction of the second number from the first
-
 Multiplication of both numbers
-
 Division of the first number by the second
-
 
 Task_2.py – Greeting Program
 
 This program:
 
 Takes the first name and last name of the user as input
-
 Prints a personalized greeting message using formatted strings
 
 Example Output:
