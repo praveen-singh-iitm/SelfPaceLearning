@@ -1,4 +1,4 @@
-This folder contains assigmnet 1 taks.
+This folder contains assigmnet 1 tasks.
 
 Course Name:- Python
 
