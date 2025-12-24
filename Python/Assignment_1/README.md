@@ -1,8 +1,10 @@
-This repository contains couse wise assigmnets.
+This folder contains assigmnet 1 taks.
 
-Folder Name :- Python/ Assigment_1
+Course Name:- Python
 
-In Python course folder are having Assignnment_1 folder which two simple Python programs file Task_1.py & Task_2.py created to demonstrate basic Python concepts such as user input, arithmetic operations, and string formatting.
+Assignment Name: Assignmennt 1
+
+In Assignnment_1 we have two simple Python programs file Task_1.py & Task_2.py created to demonstrate basic Python concepts such as user input, arithmetic operations, and string formatting.
 
 Task_1.py – Basic Arithmetic Operations
 
